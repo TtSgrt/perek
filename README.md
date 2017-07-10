@@ -4,22 +4,22 @@
 Perek adalah aplikasi pendataan reklame berdasarkan kota/kab berbasis web, disample ini kab yang digunakan adalah kabupaten kendal, perek dibuat dengan ui datagrid dan menggunakan methode C.R.U.D
  
 ## Table of Contents
- - [Spesifikasi](#Spesifikasi)
- - [Instalasi](#Instalasi)
+ - [Spesifikasi](#spesifikasi)
+ - [Instalasi](#instalasi)
  
 ### Spesifikasi
-Perek pada host membutuhkan spesifikasi kurang lebih:
+  Perek pada host membutuhkan spesifikasi kurang lebih:
 - webserver dengan module `access-control-allow-origin *`, `php & mysql/mariadb`, atau setidaknya jika tidak ingin ribet bisa menggunakan wamp (windows) atau lamp (linux)
 - [codeigniter](https://codeigniter.com) framework dan [grocery-crud](https://www.grocerycrud.com) plugin
 
-sedang pada klien hanya membutuhkan:
+  sedang pada klien hanya membutuhkan:
 - web browser (eg: firefox, chromium)
 
 ### Instalasi
 - `git clone https://github.com/ttsgrt/perek.git`
 
-atau
+  atau
 - `download versi zip dari repository perek`
 
-kemudian
+  kemudian
 - `ekstrak pada folder localhost/codeigniter`
