@@ -19,7 +19,7 @@ sedang pada klien hanya membutuhkan:
 - `git clone https://github.com/ttsgrt/perek.git`
 
 atau
-- `download versi zip dari repository perek`
+- download versi zip dari repository perek
 
 kemudian
-- `ekstrak pada folder localhost/codeigniter`
+- ekstrak pada folder localhost/codeigniter
