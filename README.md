@@ -10,12 +10,12 @@ Perek adalah aplikasi pendataan reklame berdasarkan kota/kab berbasis web, disam
 ### spesifikasi
 Perek pada host membutuhkan spesifikasi kurang lebih:
 
-- `webserver dengan module access-control-allow-origin *, php & mysql/mariadb, atau setidaknya jika tidak ingin ribet bisa menggunakan wamp (windows) atau lamp (linux)`
-- [codeigniter framework](https://codeigniter.com) `dan` [grocery-crud](https://www.grocerycrud.com)
+- webserver dengan module `access-control-allow-origin *`, `php & mysql/mariadb`, atau setidaknya jika tidak ingin ribet bisa menggunakan wamp (windows) atau lamp (linux)
+- [codeigniter](https://codeigniter.com) framework dan [grocery-crud](https://www.grocerycrud.com) plugin
 
 sedang pada klien hanya membutuhkan:
 
-- `web browser`
+- web browser
 
 ### instalasi
 - `git clone https://github.com/ttsgrt/perek.git`
