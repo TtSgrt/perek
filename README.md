@@ -11,7 +11,7 @@ Perek adalah aplikasi pendataan reklame berdasarkan kota/kab berbasis web, disam
 Perek pada host membutuhkan spesifikasi kurang lebih:
 
 - `webserver dengan module access-control-allow-origin *, php & mysql/mariadb, atau setidaknya jika tidak ingin ribet bisa menggunakan wamp (windows) atau lamp (linux)`
-- `[codeigniter framework](https://codeigniter.com) dan [grocery-crud](https://www.grocerycrud.com)`
+- [codeigniter framework](https://codeigniter.com) `dan` [grocery-crud](https://www.grocerycrud.com)
 
 sedang pada klien hanya membutuhkan:
 
